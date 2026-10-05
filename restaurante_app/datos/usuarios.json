@@ -1,0 +1,26 @@
+[
+    {
+        "identificacion": "1801234567",
+        "nombre": "Jose Tarco",
+        "mesa": "Mesa 3",
+        "usuario": "jtarco",
+        "contrasena": "grill2026",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "1809876543",
+        "nombre": "Administrador",
+        "mesa": "Barra",
+        "usuario": "admin",
+        "contrasena": "admin456",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "1807654321",
+        "nombre": "Mesero Principal",
+        "mesa": "Salon",
+        "usuario": "mesero1",
+        "contrasena": "mesa2026",
+        "rol": "Empleado"
+    }
+]
